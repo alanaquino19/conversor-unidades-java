@@ -17,9 +17,9 @@ Cuenta con un **menú interactivo** y validación de datos para evitar errores e
 
 ## Tecnologías utilizadas
 
-- **Java** → Lógica principal y flujo del programa.  
-- **Scanner** → Entrada interactiva del usuario.  
-- **Estructuras de control** → Menú y validaciones.
+- **Java**: Lógica principal y flujo del programa.  
+- **Scanner**: Entrada interactiva del usuario.  
+- **Estructuras de control**: Menú y validaciones.
 
 ---
 
@@ -27,7 +27,7 @@ Cuenta con un **menú interactivo** y validación de datos para evitar errores e
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/alanaquino72/conversor-unidades-java.git
+   git clone https://github.com/alanaquino19/conversor-unidades-java.git
    ```
 
 2. Compila el archivo Java:
@@ -53,7 +53,7 @@ conversor-unidades-java
 
 ## Autor
 
-**Alan Aquino**, estudiante de Ingeniería en Informática.
+Alan Aquino.
 
 ---
 
